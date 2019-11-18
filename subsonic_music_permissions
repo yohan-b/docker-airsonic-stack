@@ -1,0 +1,2 @@
+chown -R 99:100 /mnt/data/scimetis.net/home/yohan/music
+chmod -R g+w /mnt/data/scimetis.net/home/yohan/music/
